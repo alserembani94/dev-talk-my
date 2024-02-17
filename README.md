@@ -7,3 +7,4 @@ Ini senarai yang hadir!
 - @zackrsli
 - @Xavier-IV
 - random
+- [@Havoc45](https://github.com/Havoc45)
