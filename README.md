@@ -7,11 +7,11 @@ Ini senarai yang hadir!
 - [@afrieirham](https://github.com/afrieirham)
 - @zackrsli
 - @Xavier-IV
-- [@arifindensumite](https://github.com/arifindensumite/)
 - random
 - [@zackrsli](https://github.com/zackrsli)
 - [@Xavier-IV](https://github.com/Xavier-IV)
 - [@0xn1](https://github.com/0xn1)
+- [@arifindensumite](https://github.com/arifindensumite/)
 
 Photo version:
 
