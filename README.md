@@ -1,4 +1,4 @@
-## Welcome to Dev Talk MY Kursus Kemalangan Git
+## Welcome to Dev Talk MY Git Crash Course
 
 Ini senarai yang hadir!
 - @alserembani94
@@ -6,3 +6,4 @@ Ini senarai yang hadir!
 - [@afrieirham](https://github.com/afrieirham)
 - @zackrsli
 - @Xavier-IV
+- yourname1059
