@@ -21,3 +21,4 @@ Photo version:
 [<img src="https://github.com/zackrsli.png" width="48">](https://github.com/zackrsli)
 [<img src="https://github.com/Xavier-IV.png" width="48">](https://github.com/Xavier-IV)
 [<img src="https://github.com/0xn1.png" width="48">](https://github.com/0xn1)
+[<img src="https://github.com/arifindensumite.png" width="48">](https://github.com/arifindensumite)
