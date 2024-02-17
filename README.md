@@ -7,3 +7,4 @@ Ini senarai yang hadir!
 - @zackrsli
 - @Xavier-IV
 - random
+- @afiqahramlan
