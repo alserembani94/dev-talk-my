@@ -1,5 +1,10 @@
-## Welcome to Dev Talk MY Git Crash Course
+## Welcome to Dev Talk MY Kursus Kemalangan Git
 
 Ini senarai yang hadir!
 - @alserembani94
-- @luqmanafif96 https://github.com/luqmanafif96
+- @altafxx
+- [@afrieirham](https://github.com/afrieirham)
+- @zackrsli
+- @Xavier-IV
+- @luqmanafif96 
+- random
