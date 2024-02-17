@@ -2,9 +2,10 @@
 
 Ini senarai yang hadir!
 - @alserembani94
-- @izzhamburhan
 - @altafxx
 - [@afrieirham](https://github.com/afrieirham)
 - @zackrsli
 - @Xavier-IV
+- @izzhamburhan
+- random
 
