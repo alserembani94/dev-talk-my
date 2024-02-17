@@ -5,9 +5,6 @@ Ini senarai yang hadir!
 - [@alserembani94](https://github.com/afrieirham)
 - [@altafxx](https://github.com/altafxx)
 - [@afrieirham](https://github.com/afrieirham)
-
-- @zackrsli
-- @Xavier-IV
 - random
 - [@zackrsli](https://github.com/zackrsli)
 - [@Xavier-IV](https://github.com/Xavier-IV)
