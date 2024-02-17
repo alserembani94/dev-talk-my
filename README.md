@@ -2,6 +2,7 @@
 
 Ini senarai yang hadir!
 - @alserembani94
+- @NikIrfann
 - @altafxx
 - [@afrieirham](https://github.com/afrieirham)
 - @zackrsli
