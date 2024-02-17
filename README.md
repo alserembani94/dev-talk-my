@@ -9,6 +9,7 @@ Ini senarai yang hadir!
 - [@zackrsli](https://github.com/zackrsli)
 - [@Xavier-IV](https://github.com/Xavier-IV)
 - [@0xn1](https://github.com/0xn1)
+- [@irfansyafi](https://github.com/irfansyafi)
 
 Photo version:
 
