@@ -7,7 +7,6 @@ Ini senarai yang hadir!
 - [@afrieirham](https://github.com/afrieirham)
 - @zackrsli
 - @Xavier-IV
-- random
 - [@0hanif0](https://github.com/0hanif0)
 - [@zackrsli](https://github.com/zackrsli)
 - [@Xavier-IV](https://github.com/Xavier-IV)
