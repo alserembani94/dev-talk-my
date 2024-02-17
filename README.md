@@ -6,3 +6,4 @@ Ini senarai yang hadir!
 - [@afrieirham](https://github.com/afrieirham)
 - @zackrsli
 - @Xavier-IV
+- [@Havoc45](https://github.com/Havoc45)
