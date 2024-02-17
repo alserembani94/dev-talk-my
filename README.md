@@ -8,8 +8,8 @@ Ini senarai yang hadir!
 - [@0hanif0](https://github.com/0hanif0)
 - [@zackrsli](https://github.com/zackrsli)
 - [@Xavier-IV](https://github.com/Xavier-IV)
-- [@faizrahman-my](https://github.com/faizrahman-my)
 - [@0xn1](https://github.com/0xn1)
+- [@faizrahman-my](https://github.com/faizrahman-my)
 
 Photo version:
 
